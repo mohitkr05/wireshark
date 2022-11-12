@@ -1,0 +1,7 @@
+site_name: Wireshark Tutorial
+site_url: https://mohitkr05.github.io/wireshark/
+theme:
+  name: null
+  custom_dir: 'cinder'
+nav:
+  - Home: index.md
